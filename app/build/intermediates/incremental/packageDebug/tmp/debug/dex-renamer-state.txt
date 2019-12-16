@@ -1,0 +1,4 @@
+#Sun Dec 15 19:06:11 GMT-08:00 2019
+base.0=E\:\\Allaa\\projectsCenter\\FinalSqliteTestRcc61\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
